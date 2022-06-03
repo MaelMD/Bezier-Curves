@@ -3,5 +3,6 @@ A Bezier curve is a mathematically defined curve used in two-dimensional graphic
 
 
 
-   ![1 wnf-6ayQN5bV5_t4PtbhiA](https://user-images.githubusercontent.com/43723938/171075347-07e9bbc2-be71-4eed-9ac4-3757b01ee0c5.gif)
+<p align = "left">
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/43723938/171907925-18ab9f82-83f4-4bee-a6da-611dfcf5f5ba.gif)
+</p>
