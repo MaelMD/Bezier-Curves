@@ -8,8 +8,6 @@ A <b>Bezier<b> curve is a mathematically defined curve used in two-dimensional g
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43723938/171910403-db40aa22-9c3e-4bae-9efb-e0e54a4034ca.gif" alt="animated" />
